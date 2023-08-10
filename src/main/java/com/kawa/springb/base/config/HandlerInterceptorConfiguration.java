@@ -1,7 +1,7 @@
-package com.kawa.springb.config;
+package com.kawa.springb.base.config;
 
 
-import com.kawa.springb.handler.BrianHandlerInterceptor;
+import com.kawa.springb.base.handler.BrianHandlerInterceptor;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.web.servlet.config.annotation.InterceptorRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;

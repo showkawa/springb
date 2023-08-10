@@ -1,6 +1,6 @@
-package com.kawa.springb.config;
+package com.kawa.springb.base.config;
 
-import com.kawa.springb.client.BrianhuangClient;
+import com.kawa.springb.base.client.BrianhuangClient;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

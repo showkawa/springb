@@ -1,4 +1,4 @@
-package com.kawa.springb.handler;
+package com.kawa.springb.base.handler;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;

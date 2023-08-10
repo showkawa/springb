@@ -1,4 +1,4 @@
-package com.kawa.springb.client;
+package com.kawa.springb.base.client;
 
 
 import org.springframework.web.service.annotation.GetExchange;

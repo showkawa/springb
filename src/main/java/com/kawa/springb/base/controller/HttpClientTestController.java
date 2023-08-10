@@ -1,11 +1,10 @@
-package com.kawa.springb.controller;
+package com.kawa.springb.base.controller;
 
 
-import com.kawa.springb.client.BrianhuangClient;
+import com.kawa.springb.base.client.BrianhuangClient;
 import jakarta.servlet.http.HttpServletRequest;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.configurationprocessor.json.JSONException;
-import org.springframework.boot.configurationprocessor.json.JSONObject;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.GetMapping;
