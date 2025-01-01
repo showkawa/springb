@@ -1,10 +1,8 @@
 package com.kawa.springb.drools.config;
 
 import com.kawa.springb.drools.runner.DMNRunner;
-import org.kie.api.KieBase;
 import org.kie.api.KieServices;
 import org.kie.api.runtime.KieContainer;
-import org.kie.api.runtime.KieSession;
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.boot.autoconfigure.condition.ConditionalOnMissingBean;
 import org.springframework.context.annotation.Bean;
